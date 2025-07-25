@@ -6,8 +6,8 @@ __pycache__/
 venv/
 logs/*
 !.gitkeep
-terraform/terraform.tfvars
-terraform/environments/dev/terraform.tfvars
+# terraform/terraform.tfvars
+# terraform/environments/dev/terraform.tfvars
 terraform/terraform.tfstate.backup
 terraform/terraform.tfstate
 terraform/.terraform.lock.hcl

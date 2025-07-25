@@ -1,0 +1,7 @@
+snowflake_account       = "LT92513"
+snowflake_organization  = "PHVJMEJ"
+snowflake_username      = "ALI"
+snowflake_password      = "6WTrCEpc3ZYzncP"
+databricks_host         = "https://community.cloud.databricks.com"
+databricks_token        = "dapi3d8df78555f550849728803c19e97e3a"
+databricks_scripts_dir  = "/Workspace/scripts"
