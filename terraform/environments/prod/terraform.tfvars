@@ -1,0 +1,7 @@
+snowflake_account  = "your_snowflake_account_prod"
+snowflake_username = "your_snowflake_username_prod"
+snowflake_password = "your_snowflake_password_prod"
+snowflake_region   = "us-west-2"
+databricks_host    = "https://<your-prod-databricks-host>"
+databricks_token   = "your_databricks_token_prod"
+databricks_scripts_dir = "/Workspace/scripts"
